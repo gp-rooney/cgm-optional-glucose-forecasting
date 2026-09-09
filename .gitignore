@@ -1,0 +1,14 @@
+# Operating-system and notebook noise
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Local data and reference material: not versioned or redistributed
+/data/HUPA-UCM Diabetes Dataset/
+/references/*.pdf
+/archive/
+
+# Local analysis byproducts
+results/tables/*_results.csv
+results/tables/*_top.json
